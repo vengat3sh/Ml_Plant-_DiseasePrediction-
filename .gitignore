@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Dataset
+train/
+test/
+valid/
+
+# ML model files
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Environment
+venv/
+.env/

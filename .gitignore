@@ -3,9 +3,9 @@ __pycache__/
 *.pyc
 
 # Dataset
-train/
-test/
-valid/
+#train/
+#test/
+#valid/
 
 # ML model files
 *.h5
